@@ -1,0 +1,8 @@
+  name: Kit
+  main: yNearby\Loader
+  version: 0.1A
+  api: 4.0.0
+
+  permissions:
+    kit.command:
+      default: op
